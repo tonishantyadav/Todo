@@ -1,2 +1,2 @@
 # Todo
-A basic Todo list API implemented with CRUD functionalities.
+A basic Todo list API made and implemented with FastAPI and CRUD functionalities.
